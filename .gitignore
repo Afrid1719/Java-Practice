@@ -1,3 +1,6 @@
 .idea
 out
 /Java Practice.iml
+/bin/
+.classpath
+.project
